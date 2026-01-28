@@ -1,5 +1,6 @@
-function add(a,b){
-    return a+b
+function multiply(a,b){
+    return a*b
 }
 
-alert(a(36,69))
+alert(36,69)
+
